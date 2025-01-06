@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Jeevan Modhugu</h1>
 <h3 align="center">A passionate ServiceNow Developer</h3>
 
-**Linkedin:https://www.linkedin.com/in/jeevan-reddy-491819210/**
+**Linkedin:https://www.linkedin.com/in/jeevan-reddy-491819210/**.
 **Gmail:jeevanreddymodhugu@gmail.com**
 
 
