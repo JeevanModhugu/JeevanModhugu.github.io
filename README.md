@@ -2,7 +2,7 @@
 Certified ServiceNow Professional with over 4+ years of experience in the IT industry, specializing in designing, developing, customizing, and administering ITSM, ITAM, ITOM, ITBM, and HRSD suite of applications on the ServiceNow platform. Demonstrated expertise in driving business transformation through ServiceNow implementation.
 
 ## Technical Skills: 
-ServiceNow ITSM, ITBM, ITOM,CSM, HRSD, Jira.  JAVA,JavaScript, AngularJS, HTML, jQuery, XML, CSS, Ajax,Agile, Waterfall, Scrum Tools 
+ServiceNow ITSM, ITBM, ITOM,CSM, HRSD, Jira,JAVA,JavaScript, AngularJS, HTML, jQuery, XML, CSS, Ajax,Agile, Waterfall, Scrum Tools 
 
 ## Education
 - MASTERS IN INFORMATION STUDIES.GPA:3.96/4.0 TRINE UNIVERSITY.
