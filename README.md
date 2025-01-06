@@ -5,20 +5,14 @@
 
 <h3 align="left">Connect with me:</h3>
 
-**EMAIL : jeevanreddymodhugu@gmail.com**
-
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jeevan-reddy-491819210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeevan-reddy-491819210/" height="30" width="40" /></a>
-</p>
-
 
 
 ## Technical Skills: 
 **ServiceNow** ITSM, ITBM, ITOM,CSM, HRSD, Jira,JavaScript, AngularJS, HTML, jQuery, XML, CSS, Agile, Waterfall, Scrum Tools 
 
 ## Education
-- MASTERS IN INFORMATION STUDIES.    [GPA:3.96/4.0] -   TRINE UNIVERSITY.
-- BACHELORS IN COMPUTER SCIENCE AND ENGINEERING.   [GPA: 7.0/10] -  MARRI LAXMAN REDDY INSTITUTION OF TECHNOLOGY. 
+- **MASTERS IN INFORMATION STUDIES**.  -  **TRINE UNIVERSITY**  [GPA:3.96/4.0]
+- **BACHELORS IN COMPUTER SCIENCE AND ENGINEERING** - **MARRI LAXMAN REDDY INSTITUTION OF TECHNOLOGY**.  [GPA: 7.0/10] 
 
 ## Work Experience
 
