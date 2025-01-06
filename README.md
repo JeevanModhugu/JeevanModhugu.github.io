@@ -9,7 +9,7 @@ ServiceNow ITSM, ITBM, ITOM,CSM, HRSD, Jira,JAVA,JavaScript, AngularJS, HTML, jQ
 - BACHELORS IN COMPUTER SCIENCE AND ENGINEERING. GPA: 7.0/10.0MARRI LAXMAN REDDY INSTITUTION OF TECHNOLOGY. 
 
 ## Work Experience
--->>ServiceNow Developer - EISAI INC, NJ -(August 2022 – October 2024). 
+-->>ServiceNow Developer - [EISAI INC, NJ] -(August 2022 – October 2024). 
 
 
 --ServiceNow Platform Administration: Managed day-to-day operations, including user management, instance health monitoring, and troubleshooting, while performing regular system audits to ensure smooth platform performance and reliability.
@@ -24,7 +24,7 @@ ServiceNow ITSM, ITBM, ITOM,CSM, HRSD, Jira,JAVA,JavaScript, AngularJS, HTML, jQ
 
 
 
--->>ServiceNow Admin/Developer - TAVANT INC, BANGALORE - (Aug2021–July2022) 
+-->>ServiceNow Admin/Developer - [TAVANT INC], BANGALORE - (Aug2021–July2022) 
 
 
 --ServiceNow Administration and Security: Managed user access, security roles, and compliance through regular access reviews and audits, ensuring adherence to organizational policies.
