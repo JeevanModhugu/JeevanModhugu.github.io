@@ -45,14 +45,14 @@
 ## Projects
 **Chronic Kideny Disease Prediction Using Machine Learning**
 
-publication : https://white-rachele-62.tiiny.site.
+[publication](https://white-rachele-62.tiiny.site).
 
 - Chronic Kidney Disease is a phrase used to describe illnesses that affect the structure and function of the kidney. However, because Chronic Kidney Disease is a disease that has no symptoms or, in some cases, no disease-specific symptoms, it is difficult to predict, detect, and prevent such a disease, which can result in permanent health damage. Here machine learning can be a solution to this problem because it excels at prediction and analysis.
 - We will utilize various machine learning algorithms such as Logistic Regression, SVM, Random Forest, and Genetic Algorithm to analyze data from CKD patients with attributes such as specific gravity, Hypertension, albumin, hemoglobin, red blood cell count, diabetes mellitus, appetite, and Pus cell.
 
 **Home Automation Using IOT**
 
-publication : https://emerald-raynell-20.tiiny.site.
+[publication](https://emerald-raynell-20.tiiny.site).
 
 - The Internet of Things (IoT) is the network of physical objects, devices,vehicles, buildings and other items, embedded with electronics, software, sensors,and network connectivity, which enables these objects to collect and exchange data.
 
