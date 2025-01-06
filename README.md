@@ -1,3 +1,16 @@
+<h1 align="center">Hi 👋, I'm Jeevan Modhugu</h1>
+<h3 align="center">A passionate ServiceNow developer</h3>
+
+
+
+<h3 align="left">Connect with me:</h3>
+
+EMAIL : jeevanreddymodhugu@gmail.com
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jeevan-reddy-491819210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeevan-reddy-491819210/" height="30" width="40" /></a>
+</p>
+
 ## ServiceNow Developer
 Certified ServiceNow Professional with over 4+ years of experience in the IT industry, specializing in designing, developing, customizing, and administering ITSM, ITAM, ITOM, ITBM, and HRSD suite of applications on the ServiceNow platform. Demonstrated expertise in driving business transformation through ServiceNow implementation.
 
@@ -5,8 +18,8 @@ Certified ServiceNow Professional with over 4+ years of experience in the IT ind
 ServiceNow ITSM, ITBM, ITOM,CSM, HRSD, Jira,JAVA,JavaScript, AngularJS, HTML, jQuery, XML, CSS, Agile, Waterfall, Scrum Tools 
 
 ## Education
-- MASTERS IN INFORMATION STUDIES.GPA:3.96/4.0 TRINE UNIVERSITY.
-- BACHELORS IN COMPUTER SCIENCE AND ENGINEERING. GPA: 7.0/10.0MARRI LAXMAN REDDY INSTITUTION OF TECHNOLOGY. 
+- MASTERS IN INFORMATION STUDIES.    [GPA:3.96/4.0] -   TRINE UNIVERSITY.
+- BACHELORS IN COMPUTER SCIENCE AND ENGINEERING.   [GPA: 7.0/10] -  MARRI LAXMAN REDDY INSTITUTION OF TECHNOLOGY. 
 
 ## Work Experience
 -->>ServiceNow Developer - [EISAI INC, NJ] -(August 2022 – October 2024). 
@@ -51,5 +64,4 @@ publication[https://emerald-raynell-20.tiiny.site].
 
 --The Internet of Things (IoT) is the network of physical objects, devices,vehicles, buildings and other items, embedded with electronics, software, sensors,and network connectivity, which enables these objects to collect and exchange data.
 
-## Links
-https://www.linkedin.com/in/jeevan-reddy-491819210/
+
