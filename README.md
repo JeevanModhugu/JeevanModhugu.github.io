@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Jeevan Modhugu</h1>
-<h3 align="center">A passionate ServiceNow developer</h3>
+<h1 align="center">Hi , I'm Jeevan Modhugu</h1>
+<h3 align="center">A passionate ServiceNow Developer</h3>
 
 
 
 <h3 align="left">Connect with me:</h3>
 
-EMAIL : jeevanreddymodhugu@gmail.com
+**EMAIL : jeevanreddymodhugu@gmail.com**
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jeevan-reddy-491819210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeevan-reddy-491819210/" height="30" width="40" /></a>
 </p>
 
-## ServiceNow Developer
-Certified ServiceNow Professional with over 4+ years of experience in the IT industry, specializing in designing, developing, customizing, and administering ITSM, ITAM, ITOM, ITBM, and HRSD suite of applications on the ServiceNow platform. Demonstrated expertise in driving business transformation through ServiceNow implementation.
+
 
 ## Technical Skills: 
 ServiceNow ITSM, ITBM, ITOM,CSM, HRSD, Jira,JAVA,JavaScript, AngularJS, HTML, jQuery, XML, CSS, Agile, Waterfall, Scrum Tools 
@@ -22,43 +21,36 @@ ServiceNow ITSM, ITBM, ITOM,CSM, HRSD, Jira,JAVA,JavaScript, AngularJS, HTML, jQ
 - BACHELORS IN COMPUTER SCIENCE AND ENGINEERING.   [GPA: 7.0/10] -  MARRI LAXMAN REDDY INSTITUTION OF TECHNOLOGY. 
 
 ## Work Experience
-##ServiceNow Developer - [EISAI INC, NJ] -(August 2022 – October 2024). 
 
+**ServiceNow Developer [EISAI INC ,NJ] August 2022 – October 2024**
 
---ServiceNow Platform Administration: Managed day-to-day operations, including user management, instance health monitoring, and troubleshooting, while performing regular system audits to ensure smooth platform performance and reliability.
+-ServiceNow Platform Administration: Managed day-to-day operations, including user management, instance health monitoring, and troubleshooting, while performing regular system audits to ensure smooth platform performance and reliability.
 
---CMDB and Service Mapping: Developed and maintained an accurate Configuration Management Database (CMDB) using ServiceNow Discovery and Service Mapping to enhance data integrity and facilitate impact analysis.
+-CMDB and Service Mapping: Developed and maintained an accurate Configuration Management Database (CMDB) using ServiceNow Discovery and Service Mapping to enhance data integrity and facilitate impact analysis.
 
---Workflow Automation and Custom Development: Designed custom applications and automated workflows with Flow Designer and Workflow Editor, reducing manual effort and increasing efficiency across ITSM, ITOM, and ITBM modules.
-
---Third-Party Integrations: Implemented integrations with tools like JIRA and AEP using REST APIs, automating processes and synchronizing data across platforms for seamless collaboration.
-
---Platform Upgrades and User Enablement: Successfully upgraded ServiceNow from Utah to Washington DC, converted homepages to dashboards, and provided comprehensive training and documentation to enhance user proficiency and satisfaction.
+-Third-Party Integrations: Implemented integrations with tools like JIRA and AEP using REST APIs, automating processes and synchronizing data across platforms for seamless collaboration.
 
 
 
-##ServiceNow Admin/Developer - [TAVANT INC], BANGALORE - (Aug2021–July2022) 
+**ServiceNow Admin/Developer - [TAVANT INC,India] - (Aug2021–July2022)** 
 
 
---ServiceNow Administration and Security: Managed user access, security roles, and compliance through regular access reviews and audits, ensuring adherence to organizational policies.
+-ServiceNow Administration and Security: Managed user access, security roles, and compliance through regular access reviews and audits, ensuring adherence to organizational policies.
 
---Platform Optimization and Upgrades: Performed system upgrades and patches with minimal downtime, coordinated effectively with stakeholders, and implemented performance tuning measures to enhance system reliability.
+-Workflow Automation and Customization: Configured and customized modules such as Incident, Problem, Change, and Service Catalog; developed workflows and automated processes to streamline operations and improve service delivery.
 
---Workflow Automation and Customization: Configured and customized modules such as Incident, Problem, Change, and Service Catalog; developed workflows and automated processes to streamline operations and improve service delivery.
+-Integration and Data Integrity: Implemented seamless integrations with external systems using REST and SOAP APIs, ensuring data consistency and process automation across platforms.
 
---Integration and Data Integrity: Implemented seamless integrations with external systems using REST and SOAP APIs, ensuring data consistency and process automation across platforms.
-
---Documentation and User Support: Created comprehensive documentation, user guides, and training materials while providing technical support to resolve ServiceNow-related issues promptly.
 
 ## Projects
-Chronic Kideny Disease Prediction Using Machine Learning
+**Chronic Kideny Disease Prediction Using Machine Learning**
 
 publication[https://white-rachele-62.tiiny.site].
 
 --Chronic Kidney Disease is a phrase used to describe illnesses that affect the structure and function of the kidney. However, because Chronic Kidney Disease is a disease that has no symptoms or, in some cases, no disease-specific symptoms, it is difficult to predict, detect, and prevent such a disease, which can result in permanent health damage. Here machine learning can be a solution to this problem because it excels at prediction and analysis.
 --We will utilize various machine learning algorithms such as Logistic Regression, SVM, Random Forest, and Genetic Algorithm to analyze data from CKD patients with attributes such as specific gravity, Hypertension, albumin, hemoglobin, red blood cell count, diabetes mellitus, appetite, and Pus cell.
 
-Home Automation Using IOT
+**Home Automation Using IOT**
 
 publication[https://emerald-raynell-20.tiiny.site].
 
