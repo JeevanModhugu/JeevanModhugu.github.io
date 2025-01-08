@@ -6,7 +6,7 @@
 **[Linkedin]:(https://www.linkedin.com/in/jeevan-reddy-491819210/)**
 
 
-**Gmail:jeevanreddymodhugu@gmail.com**
+**[Gmail]:(jeevanreddymodhugu@gmail.com)**
 
 
 
