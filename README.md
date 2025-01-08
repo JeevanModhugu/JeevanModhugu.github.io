@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-**Linkedin:https://www.linkedin.com/in/jeevan-reddy-491819210/**
+**[Linkedin]:(https://www.linkedin.com/in/jeevan-reddy-491819210/)**
 
 
 **Gmail:jeevanreddymodhugu@gmail.com**
@@ -20,7 +20,7 @@
 
 ## Work Experience
 
-**ServiceNow Developer [EISAI INC ,NJ] August 2022 – October 2024**
+**ServiceNow Developer [EISAI INC ,NJ]-(August 2022 – October 2024)**
 
 - ServiceNow Platform Administration: Managed day-to-day operations, including user management, instance health monitoring, and troubleshooting, while performing regular system audits to ensure smooth platform performance and reliability.
 
